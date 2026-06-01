@@ -1,0 +1,2 @@
+Print Alert Message : I am an alert box!
+Promt Alert : [Function: message]

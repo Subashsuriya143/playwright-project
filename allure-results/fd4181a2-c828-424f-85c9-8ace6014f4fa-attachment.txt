@@ -1,0 +1,8 @@
+Select Country : 
+        India
+      
+Select Colous:  [
+  '\n        Green\n      ',
+  '\n        Yellow\n      ',
+  '\n        White\n      '
+]
