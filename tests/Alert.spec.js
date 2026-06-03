@@ -29,7 +29,7 @@ test("Alert Handling",async({page})=>{
 
     await page.locator('(//a[@class="analystic"])[3]').click()
     await page.once('dialog',async(dialog)=>{
-        await dialog.accept("Hi Subash")
+        await dialog.accept("Hi Manikandan")
         await console.log("Promt Alert :",dialog.message)
     })
     await page.locator('//button[@class="btn btn-info"]').click()
